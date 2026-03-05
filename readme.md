@@ -1,1 +1,1 @@
-lala
+nosso projeto de aprendizado é criar um repositório no gitub com um grupo de colegas para aprendermos a modificar as coisas em conjunto utilizando branchs sem dar conflitos e erros nos commits
